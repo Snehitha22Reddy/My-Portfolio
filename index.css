@@ -1,0 +1,102 @@
+body {
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+    width: 100%;
+}
+
+.main-container {
+    margin-top: 16px;
+    width: 100%;
+}
+
+.text-gray {
+    color: #757575;
+}
+
+.profile {
+    position: relative;
+}
+
+.profile .profile-name {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 10px 10px 10px 24px;
+}
+.profile .profile-name h2 {
+    font-weight: 400;
+}
+
+i{
+    margin-right: 10px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.work-exp {
+    margin-top: 25px;
+}
+.sub-heading{
+    font-size: 1.125rem;
+}
+
+.main-content .card {
+    margin-bottom: 15px;
+}
+
+i.fa-fw{
+    color: #009688;
+}
+.progress-bar, .text-bg-primary {
+    background-color: #009688 !important;
+}
+
+.text-bg-primary i {
+    color: #ffffff;
+    margin-right: 0px;
+}
+
+.text-primary {
+    color: #009688 !important;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.social-nw {
+    font-size: 30px;
+    display: flex;
+}
+
+.resume-btn {
+    font-size: 25px;
+}
+
+.profile-navigation.card{
+    margin-bottom: 0px;
+}
+
+.profile-navigation.card .card-body{
+    padding-bottom: 0;
+    padding-left: 5px;
+    padding-top: 0;
+}
+
+.profile-navigation.card .card-body .nav-tabs{
+    margin-bottom: 5px !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #009688 !important;
+    border-color: #009688 !important;
+}
+.card {
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 14px;
+}
